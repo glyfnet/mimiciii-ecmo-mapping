@@ -1,0 +1,337 @@
+
+    chroniccard_mhyn: 
+      # - 410 Acute myocardial infarction
+      # - 411 Other acute and subacute forms of ischemic heart disease
+        - 412 Old myocardial infarction
+        - 413 Angina pectoris
+        - 414 Other forms of chronic ischemic heart disease
+      # - 415 Acute pulmonary heart disease
+        - 416 Chronic pulmonary heart disease
+        - 417 Other diseases of pulmonary circulation
+      # - 420 Acute pericarditis
+      # - 421 Acute and subacute endocarditis
+      # - 422 Acute myocarditis
+        - 423 Other diseases of pericardium
+        - 424 Other diseases of endocardium
+        - 425 Cardiomyopathy
+        - 426 Conduction disorders
+        - 427 Cardiac dysrhythmias
+        - 428 Heart failure
+        - 429 Illdefined descriptions and complications of heart disease       
+      # - 430 Subarachnoid hemorrhage
+      # - 431 Intracerebral hemorrhage
+      # - 432 Other and unspecified intracranial hemorrhage
+      # - 433 Occlusion and stenosis of precerebral arteries
+      # - 434 Occlusion of cerebral arteries
+      # - 435 Transient cerebral ischemia
+      # - 436 Acute, but illdefined, cerebrovascular disease
+      # - 437 Other and illdefined cerebrovascular disease
+      # - 438 Late effects of cerebrovascular disease
+      # - 440 Atherosclerosis
+      # - 441 Aortic aneurysm and dissection
+      # - 442 Other aneurysm
+      # - 443 Other peripheral vascular disease
+      # - 444 Arterial embolism and thrombosis
+      # - 445 Atheroembolism
+      # - 446 Polyarteritis nodosa and allied conditions
+      # - 447 Other disorders of arteries and arterioles
+      # - 448 Disease of capillaries
+      # - 449 Septic arterial embolism
+      # - 451 Phlebitis and thrombophlebitis
+      # - 452 Portal vein thrombosis
+      # - 453 Other venous embolism and thrombosis
+      # - 454 Varicose veins of lower extremities
+      # - 455 Hemorrhoids
+      # - 456 Varicose veins of other sites
+      # - 457 Noninfectious disorders of lymphatic channels
+      # - 458 Hypotension
+      # - 459 Other disorders of circulatory system
+        - 745 Bulbus cordis anomalies and anomalies of cardiac septal closure
+        - 746 Other congenital anomalies of heart
+        - 747 Other congenital anomalies of circulatory system
+    chronicpul_mhyn:
+        - 490 Bronchitis, not specified as acute or chronic
+        - 491 Chronic bronchitis
+        - 492 Emphysema
+        - 494 Bronchiectasis
+        - 495 Extrinsic allergic alveolitis
+        - 496 Chronic airway obstruction, not elsewhere classified
+        - 500 Coal workers pneumoconiosis
+        - 501 Asbestosis
+        - 502 Pneumoconiosis due to other silica or silicates
+        - 503 Pneumoconiosis due to other inorganic dust
+        - 504 Pneumonopathy due to inhalation of other dust
+        - 505 Pneumoconiosis, unspecified
+        - 506 Respiratory conditions due to chemical fumes and vapors
+        - 507 Pneumonitis due to solids and liquids
+        - 508 Respiratory conditions due to other and unspecified external agents
+        - 510 Empyema
+        - 511 Pleurisy
+        - 512 Pneumothorax and air leak
+        - 513 Abscess of lung and mediastinum
+        - 514 Pulmonary congestion and hypostasis
+        - 515 Postinflammatory pulmonary fibrosis
+        - 516 Other alveolar and parietoalveolar pneumonopathy
+        - 517 Lung involvement in conditions classified elsewhere
+        - 518 Other diseases of lung
+        - 519 Other diseases of respiratory system
+    asthma_mhyn:
+        - 493 Asthma
+    renal_mhyn:
+      # - 580 Acute glomerulonephritis
+        - 581 Nephrotic syndrome
+        - 582 Chronic glomerulonephritis
+        - 583 Nephritis and nephropathy not specified as acute or chronic
+      # - 584 Acute kidney failure585 Chronic kidney disease (ckd)
+        - 586 Renal failure, unspecified587 Renal sclerosis, unspecified
+        - 588 Disorders resulting from impaired renal function589 Small kidney of unknown cause
+    modliver_mhyn:
+        - 571 Chronic liver disease and cirrhosis
+        - 572 Liver abscess and sequelae of chronic liver disease
+        - 573 Other disorders of liver
+        - 75162 Congenital cystic disease of liver
+    #mildliv_mhyn: []
+    chronicneu_mhyn: 
+        - 330 Cerebral degenerations usually manifest in childhood
+        - 331 Other cerebral degenerations
+        - 332 Parkinsons disease
+        - 333 Other extrapyramidal disease and abnormal movement disorders
+        - 334 Spinocerebellar disease
+        - 335 Anterior horn cell disease
+        - 336 Other diseases of spinal cord
+        - 337 Disorders of the autonomic nervous system
+        - 340 Multiple sclerosis
+        - 341 Other demyelinating diseases of central nervous system
+        - 342 Hemiplegia and hemiparesis
+        - 343 Infantile cerebral palsy
+        - 344 Other paralytic syndromes
+        - 345 Epilepsy and recurrent seizures
+        - 346 Migraine
+        - 347 Cataplexy and narcolepsy
+        - 348 Other conditions of brain
+        - 349 Other and unspecified disorders of the nervous system
+        - 350 Trigeminal nerve disorders
+        - 351 Facial nerve disorders
+        - 352 Disorders of other cranial nerves
+        - 353 Nerve root and plexus disorders
+        - 354 Mononeuritis of upper limb and mononeuritis multiplex
+        - 355 Mononeuritis of lower limb and unspecified site
+        - 356 Hereditary and idiopathic peripheral neuropathy
+        - 357 Inflammatory and toxic neuropathy
+        - 358 Myoneural disorders
+        - 359 Muscular dystrophies and other myopathies
+
+    malignantneo_mhyn:
+        - 140 Malignant neoplasm of lip
+        - 141 Malignant neoplasm of tongue
+        - 142 Malignant neoplasm of major salivary glands
+        - 143 Malignant neoplasm of gum
+        - 144 Malignant neoplasm of floor of mouth
+        - 145 Malignant neoplasm of other and unspecified parts of mouth
+        - 146 Malignant neoplasm of oropharynx
+        - 147 Malignant neoplasm of nasopharynx
+        - 148 Malignant neoplasm of hypopharynx
+        - 149 Malignant neoplasm of other and illdefined sites within the lip oral cavity and pharynx
+        - 150 Malignant neoplasm of esophagus
+        - 151 Malignant neoplasm of stomach
+        - 152 Malignant neoplasm of small intestine including duodenum
+        - 153 Malignant neoplasm of colon
+        - 154 Malignant neoplasm of rectum rectosigmoid junction and anus
+        - 155 Malignant neoplasm of liver and intrahepatic bile ducts
+        - 156 Malignant neoplasm of gallbladder and extrahepatic bile ducts
+        - 157 Malignant neoplasm of pancreas
+        - 158 Malignant neoplasm of retroperitoneum and peritoneum
+        - 159 Malignant neoplasm of other and illdefined sites within the digestive organs and peritoneum   
+        - 160 Malignant neoplasm of nasal cavities middle ear and accessory sinuses
+        - 161 Malignant neoplasm of larynx
+        - 162 Malignant neoplasm of trachea bronchus and lung
+        - 163 Malignant neoplasm of pleura
+        - 164 Malignant neoplasm of thymus heart and mediastinum
+        - 165 Malignant neoplasm of other and illdefined sites within the respiratory system and intrathoracic organs
+        - 170 Malignant neoplasm of bone and articular cartilage
+        - 171 Malignant neoplasm of connective and other soft tissue
+        - 172 Malignant melanoma of skin
+        - 173 Oth and unspec malignant neoplasm of skin
+        - 174 Malignant neoplasm of female breast
+        - 175 Malignant neoplasm of male breast
+        - 176 Kaposis sarcoma
+        - 179 Malignant neoplasm of uterus, part unspecified
+        - 180 Malignant neoplasm of cervix uteri
+        - 181 Malignant neoplasm of placenta
+        - 182 Malignant neoplasm of body of uterus
+        - 183 Malignant neoplasm of ovary and other uterine adnexa
+        - 184 Malignant neoplasm of other and unspecified female genital organs
+        - 185 Malignant neoplasm of prostate
+        - 186 Malignant neoplasm of testis
+        - 187 Malignant neoplasm of penis and other male genital organs
+        - 188 Malignant neoplasm of bladder
+        - 189 Malignant neoplasm of kidney and other and unspecified urinary organs
+        - 190 Malignant neoplasm of eye
+        - 191 Malignant neoplasm of brain
+        - 192 Malignant neoplasm of other and unspecified parts of nervous system
+        - 193 Malignant neoplasm of thyroid gland
+        - 194 Malignant neoplasm of other endocrine glands and related structures
+        - 195 Malignant neoplasm of other and illdefined sites
+        - 196 Secondary and unspecified malignant neoplasm of lymph nodes
+        - 197 Secondary malignant neoplasm of respiratory and digestive systems
+        - 198 Secondary malignant neoplasm of other specified sites
+        - 199 Malignant neoplasm without specification of site
+        - 200 Lymphosarcoma and reticulosarcoma and other specified malignant tumors of lymphatic tissue
+        - 201 Hodgkins disease
+        - 202 Other malignant neoplasms of lymphoid and histiocytic tissue
+        - 203 Multiple myeloma and immunoproliferative neoplasms
+        - 204 Lymphoid leukemia
+        - 205 Myeloid leukemia
+        - 206 Monocytic leukemia
+        - 207 Other specified leukemia
+        - 208 Leukemia of unspecified cell type
+        - 209 Neuroendocrine tumors
+    chronhaemo_mhyn:
+        - 280 Iron deficiency anemias
+        - 281 Other deficiency anemias
+        - 282 Hereditary hemolytic anemias
+        - 283 Acquired hemolytic anemias
+        - 284 Aplastic anemia and other bone marrow failure syndromes
+        - 285 Other and unspecified anemias
+        - 286 Coagulation defects
+        - 287 Purpura and other hemorrhagic conditions
+        - 288 Diseases of white blood cells
+        - 289 Other diseases of blood and blood-forming organs 
+    aidshiv_mhyn:
+        - 042 Human Immunodeficiency Virus
+    obesity_mhyn:   
+        - 278 Overweight, obesity and other hyperalimentation
+    diabetiscomp_mhyn: 
+        - 2491 Secondary diabetes mellitus with ketoacidosis
+        - 2492 Secondary diabetes mellitus with hyperosmolarity
+        - 2493 Secondary diabetes mellitus with other coma
+        - 2494 Secondary diabetes mellitus with renal manifestations
+        - 2495 Secondary diabetes mellitus with ophthalmic manifestations
+        - 2496 Secondary diabetes mellitus with neurological manifestations
+        - 2497 Secondary diabetes mellitus with peripheral circulatory disorders
+        - 2498 Secondary diabetes mellitus with other specified manifestations
+        - 2499 Secondary diabetes mellitus with unspecified complication
+        - 2501 Diabetes mellitus with ketoacidosis
+        - 2502 Diabetes mellitus with hyperosmolarity
+        - 2503 Diabetes mellitus with other coma
+        - 2504 Diabetes mellitus with renal manifestations
+        - 2505 Diabetes mellitus with ophthalmic manifestations
+        - 2506 Diabetes mellitus with neurological manifestations
+        - 2507 Diabetes mellitus with peripheral circulatory disorders
+        - 2508 Diabetes mellitus with other specified manifestations
+        - 2509 Diabetes mellitus with unspecified complication
+    diabetes_mhyn:
+        - 2490 Secondary diabetes mellitus without mention of complication
+        - 2500 Diabetes mellitus
+    rheumatology_mhyr:
+        - 390 Rheumatic fever without mention of heart involvement
+        - 391 Rheumatic fever with heart involvement
+        - 392 Rheumatic chorea
+        - 393 Chronic rheumatic pericarditis
+        - 394 Diseases of mitral valve
+        - 395 Diseases of aortic valve
+        - 396 Diseases of mitral and aortic valves
+        - 397 Diseases of other endocardial structures
+        - 398 Other rheumatic heart disease
+    dementia_mhyn:
+        - 331 Other cerebral degenerations
+    malnutrition_mhyn:
+        - 260 Kwashiorkor
+        - 261 Nutritional marasmus
+        - 262 Other severe protein calorie malnutrition
+        - 263 Other and unspecified protein-calorie malnutrition
+        - 264 Vitamin a deficiency
+        - 265 Thiamine and niacin deficiency states
+        - 266 Deficiency of b complex components
+        - 267 Ascorbic acid deficiency
+        - 268 Vitamin d deficiency
+        - 269 Other nutritional deficiencies
+    smoker:
+        - 3051 Tobacco use disorder
+        - 3052 Nondependent cannabis abuse
+        - 3043 Cannabis dependence
+    former_smoker:
+        - V1582 Personal history of tobacco use
+    pregyn_rptestcd:
+        - V22 Pregnant state, incidental
+        - V23 Supervision of high-risk pregnancy
+    postpart_rptestcd:
+        - V24 Postpartum care and examination
+        - V27 Outcome of delivery
+    pregout_rptestcd_live:
+        - V270 Outcome of delivery, single liveborn
+        - V272 Outcome of delivery, twins, both liveborn
+        - V275 Outcome of delivery, other multiple birth, all liveborn
+    pregout_rptestcd_still:
+        - V271 Outcome of delivery, single stillborn
+        - V273 Outcome of delivery, twins, one liveborn and one stillborn
+        - V274 Outcome of delivery, twins, both stillborn
+        - V276 Outcome of delivery, other multiple birth, some liveborn
+        - V277 Outcome of delivery, other multiple birth, all stillborn
+    oxy_vsyn:
+        - V462 Other dependence on machines, supplemental oxygen     
+    fever_ceoccur_v2:
+        - 7806 Fever and other physiologic disturbances of temperature regulation
+    cough_ceoccur_v2:
+        - 7862 Cough
+    coughsput_ceoccur_v2:
+        - 7864 Abnormal sputum
+    coughhb_ceoccur_v2:
+        - 7863 Hemoptysis
+    sorethroat_ceoccur_v2:
+        - 034 Streptococcal sore throat and scarlet fever
+        - 462 Acute pharyngitis
+        - 7841 Throat pain
+    runnynose_ceoccur_v2:
+        - 460 Acute nasopharyngitis
+        - 78491 Postnasal drip
+        - 78499 Runny nose
+    earpain_ceoccur_v2:
+        - 3887 Otalgia
+    wheeze_ceoccur_v2:
+        - 78607 Wheezing
+    chestpain_ceoccur_v2: 
+        - 7865 Chest pain
+    myalgia_ceoccur_v2:
+        - 7291 Myalgia and myositis, unspecified
+    jointpain_ceoccur_v2: 
+        - 7194 Pain in joint
+    fatigue_ceoccur_v2:
+        - 7807 Malaise and fatigue
+    shortbreath_ceoccur_v2:
+        - 78605 Shortness of breath
+    headache_ceoccur_v2:
+        - 7840 Headache
+    confusion_ceoccur_v2:
+        - 7800 Alteration of consciousness
+        - 7801 Hallucinations
+    seizures_cecoccur_v2:
+        - 345 Epilepsy and recurrent seizures
+        - 7803 Convulsions
+    abdopain_ceoccur_v2:
+        - 7890 Abdominal pain
+    vomit_ceoccur_v2:
+        - 7870 Nausea and vomiting
+    diarrhoea_ceoccur_v2:
+        - 78791 Diarrhea
+    conjunct_ceoccur_v2:
+        - 372 Disorders of conjunctiva
+    rash_ceoccur_v2:
+        - 7821 Rash and other nonspecific skin eruption
+    skinulcers_ceoccur_v2:
+        - 707 Chronic ulcer of skin
+    lymp_ceoccur_v2:
+        - 7856 Enlargement of lymph node
+    bleed_ceoccur_v2:
+        - 4590 Hemorrhage, unspecified
+        
+        
+        
+        
+        
+        
+        
+    
+    
+    
+    
